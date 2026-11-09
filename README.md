@@ -7,8 +7,7 @@ environment.<br />
 - Windows 11
 <h2>Attributes Added for Users</h2>
 <p>
-<img width="1063" height="625" alt="image"
-src="https://github.com/user-attachments/assets/f9b0b4f9-08f5-4565-bfd0-674aec6c9321" />
+<img width="939" height="472" alt="Adding Atrributes Okta" src="https://github.com/user-attachments/assets/e3ef4d74-de83-4110-8233-6f3cfc8fc7d3" />
 </p>
 <p>
-Attributes added for Amy Adams (one out of several users, can show more if requested).
+Attributes added for Ariana Sanchez (one out of several users, can show more if requested).
